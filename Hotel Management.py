@@ -25,16 +25,16 @@ def RoomHub():
         RoomMenu[operationName]()
 
 def Booking():
-    print("Book")
+    pass
 
 def Room_Info():
-    print("INFO")
+    pass
 
 def AdminLogin():
-    print("Admin Login")
+    pass
 
 def RoomService():
-    print("Room Service")
+    pass
 
 def Home():
     menu = {
