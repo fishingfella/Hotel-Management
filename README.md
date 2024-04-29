@@ -1,5 +1,7 @@
 ****Hotel Management****
 
+
+
 **Scenario**
 
 You have been hired by the Artemis Hotel to create a hotel management system.  The system will be used by the hotel for managing customers bookings and their details.
