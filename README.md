@@ -43,4 +43,3 @@ Hotel Booking, Provide you with Hotel Rooms Info, Room Service, Billing and Reco
 •	Database CSV document for customer / guests’ details :shushing_face: :deaf_man:
 
 •	Test table to show that the system works. :shushing_face: :deaf_man:
-
